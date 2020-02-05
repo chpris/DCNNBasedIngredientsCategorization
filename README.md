@@ -1,4 +1,4 @@
-                                              Food and Ingredients Categorization
+										 Food and Ingredients Categorization
 
 Food safety and health is increasingly attracting attentions. People are shifting to vegan diet as vegans are less likely to
 develop heart disease, cancer, diabetes, and high blood pressure than meat-eaters. An effective computer vision method to recognize
